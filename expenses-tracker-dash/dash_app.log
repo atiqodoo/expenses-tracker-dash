@@ -1,0 +1,346 @@
+2025-04-17 10:10:10,292 INFO: Database connection established
+2025-04-17 10:10:10,308 INFO: Database tables and indices initialized
+2025-04-17 10:10:10,312 INFO: Starting Dash app
+2025-04-17 10:10:10,313 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-17 10:10:11,686 INFO: Database connection established
+2025-04-17 10:10:11,693 INFO: Database tables and indices initialized
+2025-04-17 10:10:11,698 INFO: Starting Dash app
+2025-04-17 10:13:52,755 INFO: Closing database connection
+2025-04-17 10:13:54,501 INFO: Database connection established
+2025-04-17 10:13:54,507 INFO: Database tables and indices initialized
+2025-04-17 10:13:54,510 INFO: Starting Dash app
+2025-04-17 10:13:55,059 INFO: Closing database connection
+2025-04-17 10:13:55,202 INFO: Closing database connection
+2025-04-17 10:14:59,245 INFO: Database connection established
+2025-04-17 10:14:59,251 INFO: Database tables and indices initialized
+2025-04-17 10:14:59,254 INFO: Starting Dash app
+2025-04-17 10:14:59,256 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-17 10:15:00,394 INFO: Database connection established
+2025-04-17 10:15:00,401 INFO: Database tables and indices initialized
+2025-04-17 10:15:00,405 INFO: Starting Dash app
+2025-04-17 10:15:04,118 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:15:04,136 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:15:04,288 INFO: update_charts triggered
+2025-04-17 10:15:05,187 ERROR: update_charts failed: time data "2025-04-11" doesn't match format "%Y-%m-%dT%H:%M:%S.%f", at position 2. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-04-17 10:15:06,554 INFO: toggle_modal triggered
+2025-04-17 10:15:06,554 INFO: toggle_modal: Toggling modal state
+2025-04-17 10:15:14,360 INFO: load_subcategories triggered with category_id: 1
+2025-04-17 10:15:14,361 INFO: load_subcategories completed
+2025-04-17 10:15:14,388 INFO: load_subcategories triggered with category_id: None
+2025-04-17 10:15:14,388 WARNING: load_subcategories: Invalid category_id
+2025-04-17 10:15:19,804 INFO: load_subcategories triggered with category_id: 1
+2025-04-17 10:15:19,804 INFO: load_subcategories completed
+2025-04-17 10:15:33,568 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:15:33,573 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:15:33,588 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:15:33,593 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:15:33,607 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:15:33,613 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:15:33,616 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:15:33,620 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:15:33,621 ERROR: get_wallets failed: Recursive use of cursors not allowed.
+2025-04-17 10:15:33,623 ERROR: get_expenses failed: Recursive use of cursors not allowed.
+2025-04-17 10:15:33,628 WARNING: No wallets found
+2025-04-17 10:15:33,629 WARNING: No expenses found
+2025-04-17 10:15:33,632 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:15:33,706 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:15:33,712 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:15:33,741 INFO: update_charts triggered
+2025-04-17 10:15:33,788 ERROR: update_charts failed: time data "2025-04-11" doesn't match format "%Y-%m-%dT%H:%M:%S.%f", at position 2. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-04-17 10:15:33,789 INFO: update_charts triggered
+2025-04-17 10:15:33,837 INFO: update_charts triggered
+2025-04-17 10:15:33,850 WARNING: update_charts: No data provided
+2025-04-17 10:15:34,853 INFO: Closing database connection
+2025-04-17 10:20:30,739 INFO: Database connection established
+2025-04-17 10:20:30,745 INFO: Database tables and indices initialized
+2025-04-17 10:20:30,750 INFO: Starting Dash app
+2025-04-17 10:20:30,751 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-17 10:20:31,895 INFO: Database connection established
+2025-04-17 10:20:31,902 INFO: Database tables and indices initialized
+2025-04-17 10:20:31,906 INFO: Starting Dash app
+2025-04-17 10:20:33,903 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:20:33,915 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:20:33,922 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:20:33,924 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:20:33,930 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:20:33,933 ERROR: get_categories failed: Recursive use of cursors not allowed.
+2025-04-17 10:20:33,938 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:20:33,946 WARNING: get_categories: No categories found
+2025-04-17 10:20:33,949 ERROR: get_wallets failed: Recursive use of cursors not allowed.
+2025-04-17 10:20:33,953 WARNING: No categories found
+2025-04-17 10:20:33,956 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:20:33,960 WARNING: No categories found
+2025-04-17 10:20:33,962 WARNING: No wallets found
+2025-04-17 10:20:33,964 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:20:34,024 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:20:34,031 INFO: initialize_dropdowns_and_table completed
+2025-04-17 10:20:34,086 INFO: update_charts triggered
+2025-04-17 10:20:34,241 INFO: update_charts triggered
+2025-04-17 10:20:34,251 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:20:34,256 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 10:20:34,257 ERROR: get_expenses failed: Recursive use of cursors not allowed.
+2025-04-17 10:20:35,191 INFO: Closing database connection
+2025-04-17 10:40:49,299 INFO: Database connection established
+2025-04-17 10:40:49,306 INFO: Database tables and indices initialized
+2025-04-17 10:40:49,311 INFO: Starting Dash app
+2025-04-17 10:40:49,314 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-17 10:40:50,444 INFO: Database connection established
+2025-04-17 10:40:50,450 INFO: Database tables and indices initialized
+2025-04-17 10:40:50,454 ERROR: Port 8050 is already in use. Please stop other instances or use a different port.
+2025-04-17 10:40:50,581 INFO: Closing database connection
+2025-04-17 10:42:52,388 INFO: Database connection established
+2025-04-17 10:42:52,398 INFO: Database tables and indices initialized
+2025-04-17 10:42:52,402 INFO: Starting Dash app
+2025-04-17 10:42:52,404 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-17 10:42:53,774 INFO: Database connection established
+2025-04-17 10:42:53,783 INFO: Database tables and indices initialized
+2025-04-17 10:42:53,787 ERROR: Port 8050 is already in use. Please stop other instances or use a different port.
+2025-04-17 10:42:53,945 INFO: Closing database connection
+2025-04-17 11:06:32,168 INFO: Database connection established
+2025-04-17 11:06:32,179 INFO: Database tables and indices initialized
+2025-04-17 11:06:32,184 INFO: Starting Dash app on port 8050
+2025-04-17 11:06:32,185 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-17 11:06:33,401 INFO: Database connection established
+2025-04-17 11:06:33,411 INFO: Database tables and indices initialized
+2025-04-17 11:06:33,420 WARNING: Port 8050 is in use, trying 8051
+2025-04-17 11:06:33,420 INFO: Starting Dash app on port 8051
+2025-04-17 11:06:58,278 INFO: Database connection established
+2025-04-17 11:06:58,285 INFO: Database tables and indices initialized
+2025-04-17 11:06:58,288 INFO: Starting Dash app on port 8050
+2025-04-17 11:06:58,290 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-17 11:06:59,424 INFO: Database connection established
+2025-04-17 11:06:59,430 INFO: Database tables and indices initialized
+2025-04-17 11:06:59,433 WARNING: Port 8050 is in use, trying 8051
+2025-04-17 11:06:59,434 INFO: Starting Dash app on port 8051
+2025-04-17 11:07:33,495 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 11:07:33,496 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 11:07:33,510 DEBUG: Categories: {'id': {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 211}, 'name': {0: 'Food', 1: 'Transport', 2: 'Utilities', 3: 'Entertainment', 4: 'Other', 5: 'WAGES'}}
+2025-04-17 11:07:33,511 DEBUG: Categories: {'id': {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 211}, 'name': {0: 'Food', 1: 'Transport', 2: 'Utilities', 3: 'Entertainment', 4: 'Other', 5: 'WAGES'}}
+2025-04-17 11:07:33,511 DEBUG: Wallets: {'id': {0: 1, 1: 3, 2: 4, 3: 5}, 'name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet'}, 'current_balance': {0: -3184.0, 1: 600.0, 2: 1000.0, 3: 500.0}}
+2025-04-17 11:07:33,512 DEBUG: Wallets: {'id': {0: 1, 1: 3, 2: 4, 3: 5}, 'name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet'}, 'current_balance': {0: -3184.0, 1: 600.0, 2: 1000.0, 3: 500.0}}
+2025-04-17 11:07:33,513 DEBUG: Expenses: {'ID': {0: 3, 1: 1, 2: 5, 3: 4, 4: 2}, 'Date': {0: '2025-04-17T09:46:41.435101', 1: '2025-04-17T08:59:42.074896', 2: '2025-04-11', 3: '2025-04-07', 4: '2025-04-07'}, 'Time': {0: '12:00', 1: '03:04', 2: '10:19', 3: '12:00', 4: '03:04'}, 'Amount': {0: 100.0, 1: 855.0, 2: 400.0, 3: 2909.0, 4: 20.0}, 'Wallet': {0: 'mpesa', 1: 'mpesa', 2: 'mpesa640', 3: 'mpesa', 4: 'mpesa'}, 'Category': {0: 'Food', 1: 'Food', 2: 'Transport', 3: 'Food', 4: 'Transport'}, 'Subcategory': {0: 'breakfast \U0001f963 ', 1: 'breakfast \U0001f963 ', 2: 'tuktuk', 3: 'lunch', 4: 'tuktuk'}, 'Description': {0: None, 1: 'lunch', 2: None, 3: None, 4: None}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:07:33,513 DEBUG: Expenses: {'ID': {0: 3, 1: 1, 2: 5, 3: 4, 4: 2}, 'Date': {0: '2025-04-17T09:46:41.435101', 1: '2025-04-17T08:59:42.074896', 2: '2025-04-11', 3: '2025-04-07', 4: '2025-04-07'}, 'Time': {0: '12:00', 1: '03:04', 2: '10:19', 3: '12:00', 4: '03:04'}, 'Amount': {0: 100.0, 1: 855.0, 2: 400.0, 3: 2909.0, 4: 20.0}, 'Wallet': {0: 'mpesa', 1: 'mpesa', 2: 'mpesa640', 3: 'mpesa', 4: 'mpesa'}, 'Category': {0: 'Food', 1: 'Food', 2: 'Transport', 3: 'Food', 4: 'Transport'}, 'Subcategory': {0: 'breakfast \U0001f963 ', 1: 'breakfast \U0001f963 ', 2: 'tuktuk', 3: 'lunch', 4: 'tuktuk'}, 'Description': {0: None, 1: 'lunch', 2: None, 3: None, 4: None}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:07:33,517 INFO: initialize_dropdowns_and_table completed
+2025-04-17 11:07:33,518 INFO: initialize_dropdowns_and_table completed
+2025-04-17 11:07:33,538 INFO: update_charts triggered
+2025-04-17 11:07:33,538 INFO: update_charts triggered
+2025-04-17 11:07:34,352 INFO: update_charts completed
+2025-04-17 11:07:34,352 INFO: update_charts completed
+2025-04-17 11:12:34,882 INFO: Database connection established
+2025-04-17 11:12:34,888 INFO: Database tables and indices initialized
+2025-04-17 11:12:34,891 WARNING: Port 8050 is in use, trying 8051
+2025-04-17 11:12:34,891 INFO: Starting Dash app on port 8051
+2025-04-17 11:12:34,894 INFO: Dash is running on http://127.0.0.1:8051/
+
+2025-04-17 11:12:36,166 INFO: Database connection established
+2025-04-17 11:12:36,172 INFO: Database tables and indices initialized
+2025-04-17 11:12:36,175 WARNING: Port 8050 is in use, trying 8051
+2025-04-17 11:12:36,177 WARNING: Port 8051 is in use, trying 8052
+2025-04-17 11:12:36,177 INFO: Starting Dash app on port 8052
+2025-04-17 11:13:26,124 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 11:13:26,131 DEBUG: Categories: {'id': {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 211}, 'name': {0: 'Food', 1: 'Transport', 2: 'Utilities', 3: 'Entertainment', 4: 'Other', 5: 'WAGES'}}
+2025-04-17 11:13:26,132 DEBUG: Wallets: {'id': {0: 1, 1: 3, 2: 4, 3: 5}, 'name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet'}, 'current_balance': {0: -3184.0, 1: 600.0, 2: 1000.0, 3: 500.0}}
+2025-04-17 11:13:26,132 DEBUG: Expenses: {'ID': {0: 3, 1: 1, 2: 5, 3: 4, 4: 2}, 'Date': {0: '2025-04-17T09:46:41.435101', 1: '2025-04-17T08:59:42.074896', 2: '2025-04-11', 3: '2025-04-07', 4: '2025-04-07'}, 'Time': {0: '12:00', 1: '03:04', 2: '10:19', 3: '12:00', 4: '03:04'}, 'Amount': {0: 100.0, 1: 855.0, 2: 400.0, 3: 2909.0, 4: 20.0}, 'Wallet': {0: 'mpesa', 1: 'mpesa', 2: 'mpesa640', 3: 'mpesa', 4: 'mpesa'}, 'Category': {0: 'Food', 1: 'Food', 2: 'Transport', 3: 'Food', 4: 'Transport'}, 'Subcategory': {0: 'breakfast \U0001f963 ', 1: 'breakfast \U0001f963 ', 2: 'tuktuk', 3: 'lunch', 4: 'tuktuk'}, 'Description': {0: None, 1: 'lunch', 2: None, 3: None, 4: None}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:13:26,133 INFO: initialize_dropdowns_and_table completed
+2025-04-17 11:13:26,301 INFO: update_charts triggered
+2025-04-17 11:13:26,894 INFO: update_charts completed
+2025-04-17 11:13:29,568 INFO: toggle_modal triggered
+2025-04-17 11:13:29,569 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:13:39,734 INFO: load_subcategories triggered with category_id: 1
+2025-04-17 11:13:39,736 INFO: load_subcategories completed with 3 options
+2025-04-17 11:13:53,161 INFO: toggle_modal triggered
+2025-04-17 11:13:53,161 INFO: toggle_modal: Closing modal after save
+2025-04-17 11:13:53,162 INFO: save_expense triggered with inputs: date=2025-04-08, amount=23, wallet_id=3, subcategory_id=1
+2025-04-17 11:13:53,184 INFO: save_expense completed
+2025-04-17 11:13:53,219 INFO: update_charts triggered
+2025-04-17 11:13:53,284 INFO: update_charts completed
+2025-04-17 11:14:14,948 INFO: add_subcategory triggered
+2025-04-17 11:14:14,956 INFO: add_subcategory completed
+2025-04-17 11:14:33,834 INFO: delete_expense triggered with active_cell: {'row': 0, 'column': 7, 'column_id': 'Delete'}
+2025-04-17 11:14:33,855 INFO: delete_expense completed
+2025-04-17 11:14:33,887 INFO: update_charts triggered
+2025-04-17 11:14:33,940 INFO: update_charts completed
+2025-04-17 11:14:45,819 INFO: delete_expense triggered with active_cell: None
+2025-04-17 11:14:45,819 WARNING: delete_expense: Invalid active_cell or data
+2025-04-17 11:14:45,819 ERROR: delete_expense failed: 
+2025-04-17 11:14:49,750 INFO: toggle_modal triggered
+2025-04-17 11:14:49,750 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:15:16,928 INFO: toggle_modal triggered
+2025-04-17 11:15:16,928 INFO: toggle_modal: Closing modal after save
+2025-04-17 11:15:16,928 INFO: save_expense triggered with inputs: date=2025-03-20, amount=3000, wallet_id=3, subcategory_id=5
+2025-04-17 11:15:16,931 WARNING: save_expense: Insufficient wallet balance for wallet_id 3, balance=577.0
+2025-04-17 11:15:22,048 INFO: toggle_modal triggered
+2025-04-17 11:15:22,048 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:15:39,299 INFO: toggle_modal triggered
+2025-04-17 11:15:39,300 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:16:03,593 INFO: add_wallet triggered
+2025-04-17 11:16:03,602 INFO: add_wallet completed
+2025-04-17 11:16:06,544 INFO: toggle_modal triggered
+2025-04-17 11:16:06,544 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:16:11,994 INFO: load_subcategories triggered with category_id: None
+2025-04-17 11:16:11,994 DEBUG: load_subcategories: No category selected, returning default
+2025-04-17 11:16:13,270 INFO: load_subcategories triggered with category_id: 1
+2025-04-17 11:16:13,271 INFO: load_subcategories completed with 4 options
+2025-04-17 11:16:22,314 INFO: toggle_modal triggered
+2025-04-17 11:16:22,314 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:16:23,609 INFO: toggle_modal triggered
+2025-04-17 11:16:23,609 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:16:39,443 INFO: toggle_modal triggered
+2025-04-17 11:16:39,444 INFO: save_expense triggered with inputs: date=2025-03-20, amount=70, wallet_id=16, subcategory_id=1
+2025-04-17 11:16:39,444 INFO: toggle_modal: Closing modal after save
+2025-04-17 11:16:39,465 INFO: save_expense completed
+2025-04-17 11:16:39,491 INFO: update_charts triggered
+2025-04-17 11:16:39,548 INFO: update_charts completed
+2025-04-17 11:16:41,093 INFO: toggle_modal triggered
+2025-04-17 11:16:41,093 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:16:55,912 INFO: toggle_modal triggered
+2025-04-17 11:16:55,912 INFO: toggle_modal: Closing modal after save
+2025-04-17 11:16:55,912 INFO: save_expense triggered with inputs: date=2025-03-10, amount=300, wallet_id=16, subcategory_id=4
+2025-04-17 11:16:55,913 WARNING: save_expense: Insufficient wallet balance for wallet_id 16, balance=80.0
+2025-04-17 11:17:11,208 INFO: update_charts triggered
+2025-04-17 11:17:11,260 INFO: update_charts completed
+2025-04-17 11:17:13,321 INFO: update_charts triggered
+2025-04-17 11:17:13,364 INFO: update_charts completed
+2025-04-17 11:17:14,928 INFO: update_charts triggered
+2025-04-17 11:17:14,971 INFO: update_charts completed
+2025-04-17 11:17:23,861 INFO: update_charts triggered
+2025-04-17 11:17:23,905 INFO: update_charts completed
+2025-04-17 11:17:29,594 INFO: export_to_excel triggered
+2025-04-17 11:17:29,681 INFO: export_to_excel completed
+2025-04-17 11:17:41,437 INFO: export_to_excel triggered
+2025-04-17 11:17:41,458 INFO: export_to_excel completed
+2025-04-17 11:23:50,766 INFO: Database connection established
+2025-04-17 11:23:50,773 INFO: Database tables and indices initialized
+2025-04-17 11:23:50,777 WARNING: Port 8050 is in use, trying 8051
+2025-04-17 11:23:50,777 WARNING: Port 8051 is in use, trying 8052
+2025-04-17 11:23:50,778 INFO: Starting Dash app on port 8052
+2025-04-17 11:23:51,078 INFO: Database connection established
+2025-04-17 11:23:51,085 INFO: Database tables and indices initialized
+2025-04-17 11:23:51,089 WARNING: Port 8050 is in use, trying 8051
+2025-04-17 11:23:51,090 WARNING: Port 8051 is in use, trying 8052
+2025-04-17 11:23:51,090 INFO: Starting Dash app on port 8052
+2025-04-17 11:23:56,290 INFO: Shutting down Dash app
+2025-04-17 11:23:56,438 INFO: Shutting down Dash app
+2025-04-17 11:24:06,950 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 11:24:06,958 DEBUG: Categories: {'id': {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 211}, 'name': {0: 'Food', 1: 'Transport', 2: 'Utilities', 3: 'Entertainment', 4: 'Other', 5: 'WAGES'}}
+2025-04-17 11:24:06,958 DEBUG: Wallets: {'id': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16}, 'name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets'}, 'current_balance': {0: -3184.0, 1: 577.0, 2: 1000.0, 3: 500.0, 4: 80.0}}
+2025-04-17 11:24:06,960 DEBUG: Expenses: {'ID': {0: 1, 1: 5, 2: 6, 3: 4, 4: 2, 5: 7}, 'Date': {0: '2025-04-17T08:59:42.074896', 1: '2025-04-11', 2: '2025-04-08', 3: '2025-04-07', 4: '2025-04-07', 5: '2025-03-20'}, 'Time': {0: '03:04', 1: '10:19', 2: '12:00', 3: '12:00', 4: '03:04', 5: '20:58'}, 'Amount': {0: 855.0, 1: 400.0, 2: 23.0, 3: 2909.0, 4: 20.0, 5: 70.0}, 'Wallet': {0: 'mpesa', 1: 'mpesa640', 2: 'mpesa640', 3: 'mpesa', 4: 'mpesa', 5: 'cash  in pockets'}, 'Category': {0: 'Food', 1: 'Transport', 2: 'Food', 3: 'Food', 4: 'Transport', 5: 'Food'}, 'Subcategory': {0: 'breakfast \U0001f963 ', 1: 'tuktuk', 2: 'breakfast \U0001f963 ', 3: 'lunch', 4: 'tuktuk', 5: 'breakfast \U0001f963 '}, 'Description': {0: 'lunch', 1: None, 2: None, 3: None, 4: None, 5: None}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:24:06,962 INFO: initialize_dropdowns_and_table completed
+2025-04-17 11:24:06,997 INFO: update_charts triggered
+2025-04-17 11:24:07,891 INFO: update_charts completed
+2025-04-17 11:24:14,814 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 11:24:14,833 DEBUG: Categories: {'id': {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 211}, 'name': {0: 'Food', 1: 'Transport', 2: 'Utilities', 3: 'Entertainment', 4: 'Other', 5: 'WAGES'}}
+2025-04-17 11:24:14,833 DEBUG: Wallets: {'id': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16}, 'name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets'}, 'current_balance': {0: -3184.0, 1: 577.0, 2: 1000.0, 3: 500.0, 4: 80.0}}
+2025-04-17 11:24:14,833 DEBUG: Expenses: {'ID': {0: 1, 1: 5, 2: 6, 3: 4, 4: 2, 5: 7}, 'Date': {0: '2025-04-17T08:59:42.074896', 1: '2025-04-11', 2: '2025-04-08', 3: '2025-04-07', 4: '2025-04-07', 5: '2025-03-20'}, 'Time': {0: '03:04', 1: '10:19', 2: '12:00', 3: '12:00', 4: '03:04', 5: '20:58'}, 'Amount': {0: 855.0, 1: 400.0, 2: 23.0, 3: 2909.0, 4: 20.0, 5: 70.0}, 'Wallet': {0: 'mpesa', 1: 'mpesa640', 2: 'mpesa640', 3: 'mpesa', 4: 'mpesa', 5: 'cash  in pockets'}, 'Category': {0: 'Food', 1: 'Transport', 2: 'Food', 3: 'Food', 4: 'Transport', 5: 'Food'}, 'Subcategory': {0: 'breakfast \U0001f963 ', 1: 'tuktuk', 2: 'breakfast \U0001f963 ', 3: 'lunch', 4: 'tuktuk', 5: 'breakfast \U0001f963 '}, 'Description': {0: 'lunch', 1: None, 2: None, 3: None, 4: None, 5: None}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:24:14,840 INFO: initialize_dropdowns_and_table completed
+2025-04-17 11:24:15,047 INFO: update_charts triggered
+2025-04-17 11:24:15,100 INFO: update_charts completed
+2025-04-17 11:24:18,611 INFO: toggle_modal triggered
+2025-04-17 11:24:18,611 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:24:29,181 INFO: load_subcategories triggered with category_id: 1
+2025-04-17 11:24:29,182 INFO: load_subcategories completed with 4 options
+2025-04-17 11:24:36,523 INFO: toggle_modal triggered
+2025-04-17 11:24:36,523 INFO: save_expense triggered with inputs: date=2025-02-04, amount=40, wallet_id=16, subcategory_id=4
+2025-04-17 11:24:36,523 INFO: toggle_modal: Closing modal after save
+2025-04-17 11:24:36,544 INFO: save_expense completed
+2025-04-17 11:24:36,591 INFO: update_charts triggered
+2025-04-17 11:24:36,645 INFO: update_charts completed
+2025-04-17 11:24:43,278 INFO: toggle_modal triggered
+2025-04-17 11:24:43,280 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:24:53,419 INFO: toggle_modal triggered
+2025-04-17 11:24:53,420 INFO: toggle_modal: Closing modal after save
+2025-04-17 11:24:53,420 INFO: save_expense triggered with inputs: date=2025-02-04, amount=80, wallet_id=16, subcategory_id=5
+2025-04-17 11:24:53,421 WARNING: save_expense: Insufficient wallet balance for wallet_id 16, balance=40.0
+2025-04-17 11:25:31,722 INFO: add_subcategory triggered
+2025-04-17 11:25:31,735 INFO: add_subcategory completed
+2025-04-17 11:25:54,198 INFO: add_wallet triggered
+2025-04-17 11:25:54,223 INFO: add_wallet completed
+2025-04-17 11:25:58,985 INFO: toggle_modal triggered
+2025-04-17 11:25:58,985 INFO: toggle_modal: Toggling modal state
+2025-04-17 11:26:32,970 INFO: load_subcategories triggered with category_id: 2
+2025-04-17 11:26:32,971 INFO: load_subcategories completed with 3 options
+2025-04-17 11:26:37,596 INFO: toggle_modal triggered
+2025-04-17 11:26:37,596 INFO: toggle_modal: Closing modal after save
+2025-04-17 11:26:37,597 INFO: save_expense triggered with inputs: date=2025-01-21, amount=123, wallet_id=21, subcategory_id=6
+2025-04-17 11:26:37,621 INFO: save_expense completed
+2025-04-17 11:26:37,660 INFO: update_charts triggered
+2025-04-17 11:26:37,717 INFO: update_charts completed
+2025-04-17 11:32:28,786 INFO: Database connection established
+2025-04-17 11:32:28,793 INFO: Database tables and indices initialized
+2025-04-17 11:32:28,796 INFO: Starting Dash app on port 8050
+2025-04-17 11:32:33,444 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 11:32:33,457 DEBUG: Categories: {'id': {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 211}, 'name': {0: 'Food', 1: 'Transport', 2: 'Utilities', 3: 'Entertainment', 4: 'Other', 5: 'WAGES'}}
+2025-04-17 11:32:33,458 DEBUG: Wallets: {'id': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16, 5: 21}, 'name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets', 5: 'cheque'}, 'type': {0: 'Mpesa', 1: 'Mpesa', 2: 'Cash', 3: 'Mpesa', 4: 'Cash', 5: 'Bank'}, 'current_balance': {0: -3184.0, 1: 577.0, 2: 1000.0, 3: 500.0, 4: 40.0, 5: 377.0}, 'mpesa_number': {0: '0700187640', 1: '0700187640', 2: None, 3: '1234567890', 4: None, 5: None}}
+2025-04-17 11:32:33,461 DEBUG: Expenses: {'ID': {0: 1, 1: 5, 2: 6, 3: 4, 4: 2, 5: 7, 6: 8, 7: 9}, 'Date': {0: '2025-04-17T08:59:42.074896', 1: '2025-04-11', 2: '2025-04-08', 3: '2025-04-07', 4: '2025-04-07', 5: '2025-03-20', 6: '2025-02-04', 7: '2025-01-21'}, 'Time': {0: '03:04', 1: '10:19', 2: '12:00', 3: '12:00', 4: '03:04', 5: '20:58', 6: '12:00', 7: '22:32'}, 'Amount': {0: 855.0, 1: 400.0, 2: 23.0, 3: 2909.0, 4: 20.0, 5: 70.0, 6: 40.0, 7: 123.0}, 'Wallet': {0: 'mpesa', 1: 'mpesa640', 2: 'mpesa640', 3: 'mpesa', 4: 'mpesa', 5: 'cash  in pockets', 6: 'cash  in pockets', 7: 'cheque'}, 'Category': {0: 'Food', 1: 'Transport', 2: 'Food', 3: 'Food', 4: 'Transport', 5: 'Food', 6: 'Food', 7: 'Transport'}, 'Subcategory': {0: 'breakfast \U0001f963 ', 1: 'tuktuk', 2: 'breakfast \U0001f963 ', 3: 'lunch', 4: 'tuktuk', 5: 'breakfast \U0001f963 ', 6: 'lunch', 7: 'bodaboda'}, 'Description': {0: 'lunch', 1: None, 2: None, 3: None, 4: None, 5: None, 6: None, 7: None}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>', 6: '<i class="fas fa-trash"></i>', 7: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:32:33,462 DEBUG: Wallets Table: {'ID': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16, 5: 21}, 'Name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets', 5: 'cheque'}, 'Type': {0: 'Mpesa', 1: 'Mpesa', 2: 'Cash', 3: 'Mpesa', 4: 'Cash', 5: 'Bank'}, 'Balance': {0: 'KES -3184.00', 1: 'KES 577.00', 2: 'KES 1000.00', 3: 'KES 500.00', 4: 'KES 40.00', 5: 'KES 377.00'}, 'Mpesa Number': {0: '0700187640', 1: '0700187640', 2: '-', 3: '1234567890', 4: '-', 5: '-'}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:32:33,465 INFO: initialize_dropdowns_and_table completed
+2025-04-17 11:32:33,502 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 11:32:33,508 DEBUG: Categories: {'id': {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 211}, 'name': {0: 'Food', 1: 'Transport', 2: 'Utilities', 3: 'Entertainment', 4: 'Other', 5: 'WAGES'}}
+2025-04-17 11:32:33,508 DEBUG: Wallets: {'id': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16, 5: 21}, 'name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets', 5: 'cheque'}, 'type': {0: 'Mpesa', 1: 'Mpesa', 2: 'Cash', 3: 'Mpesa', 4: 'Cash', 5: 'Bank'}, 'current_balance': {0: -3184.0, 1: 577.0, 2: 1000.0, 3: 500.0, 4: 40.0, 5: 377.0}, 'mpesa_number': {0: '0700187640', 1: '0700187640', 2: None, 3: '1234567890', 4: None, 5: None}}
+2025-04-17 11:32:33,509 DEBUG: Expenses: {'ID': {0: 1, 1: 5, 2: 6, 3: 4, 4: 2, 5: 7, 6: 8, 7: 9}, 'Date': {0: '2025-04-17T08:59:42.074896', 1: '2025-04-11', 2: '2025-04-08', 3: '2025-04-07', 4: '2025-04-07', 5: '2025-03-20', 6: '2025-02-04', 7: '2025-01-21'}, 'Time': {0: '03:04', 1: '10:19', 2: '12:00', 3: '12:00', 4: '03:04', 5: '20:58', 6: '12:00', 7: '22:32'}, 'Amount': {0: 855.0, 1: 400.0, 2: 23.0, 3: 2909.0, 4: 20.0, 5: 70.0, 6: 40.0, 7: 123.0}, 'Wallet': {0: 'mpesa', 1: 'mpesa640', 2: 'mpesa640', 3: 'mpesa', 4: 'mpesa', 5: 'cash  in pockets', 6: 'cash  in pockets', 7: 'cheque'}, 'Category': {0: 'Food', 1: 'Transport', 2: 'Food', 3: 'Food', 4: 'Transport', 5: 'Food', 6: 'Food', 7: 'Transport'}, 'Subcategory': {0: 'breakfast \U0001f963 ', 1: 'tuktuk', 2: 'breakfast \U0001f963 ', 3: 'lunch', 4: 'tuktuk', 5: 'breakfast \U0001f963 ', 6: 'lunch', 7: 'bodaboda'}, 'Description': {0: 'lunch', 1: None, 2: None, 3: None, 4: None, 5: None, 6: None, 7: None}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>', 6: '<i class="fas fa-trash"></i>', 7: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:32:33,510 DEBUG: Wallets Table: {'ID': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16, 5: 21}, 'Name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets', 5: 'cheque'}, 'Type': {0: 'Mpesa', 1: 'Mpesa', 2: 'Cash', 3: 'Mpesa', 4: 'Cash', 5: 'Bank'}, 'Balance': {0: 'KES -3184.00', 1: 'KES 577.00', 2: 'KES 1000.00', 3: 'KES 500.00', 4: 'KES 40.00', 5: 'KES 377.00'}, 'Mpesa Number': {0: '0700187640', 1: '0700187640', 2: '-', 3: '1234567890', 4: '-', 5: '-'}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:32:33,512 INFO: initialize_dropdowns_and_table completed
+2025-04-17 11:32:33,564 INFO: update_charts triggered
+2025-04-17 11:32:33,610 INFO: update_charts triggered
+2025-04-17 11:32:34,204 INFO: update_charts completed
+2025-04-17 11:32:34,207 INFO: update_charts completed
+2025-04-17 11:33:04,275 INFO: Database connection established
+2025-04-17 11:33:04,281 INFO: Database tables and indices initialized
+2025-04-17 11:33:04,284 INFO: Starting Dash app on port 8050
+2025-04-17 11:33:04,286 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-17 11:33:05,473 INFO: Database connection established
+2025-04-17 11:33:05,479 INFO: Database tables and indices initialized
+2025-04-17 11:33:05,483 WARNING: Port 8050 is in use, trying 8051
+2025-04-17 11:33:05,483 WARNING: Port 8051 is in use, trying 8052
+2025-04-17 11:33:05,483 INFO: Starting Dash app on port 8052
+2025-04-17 11:33:19,509 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 11:33:19,535 DEBUG: Categories: {'id': {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 211}, 'name': {0: 'Food', 1: 'Transport', 2: 'Utilities', 3: 'Entertainment', 4: 'Other', 5: 'WAGES'}}
+2025-04-17 11:33:19,537 DEBUG: Wallets: {'id': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16, 5: 21}, 'name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets', 5: 'cheque'}, 'type': {0: 'Mpesa', 1: 'Mpesa', 2: 'Cash', 3: 'Mpesa', 4: 'Cash', 5: 'Bank'}, 'current_balance': {0: -3184.0, 1: 577.0, 2: 1000.0, 3: 500.0, 4: 40.0, 5: 377.0}, 'mpesa_number': {0: '0700187640', 1: '0700187640', 2: None, 3: '1234567890', 4: None, 5: None}}
+2025-04-17 11:33:19,541 DEBUG: Expenses: {'ID': {0: 1, 1: 5, 2: 6, 3: 4, 4: 2, 5: 7, 6: 8, 7: 9}, 'Date': {0: '2025-04-17T08:59:42.074896', 1: '2025-04-11', 2: '2025-04-08', 3: '2025-04-07', 4: '2025-04-07', 5: '2025-03-20', 6: '2025-02-04', 7: '2025-01-21'}, 'Time': {0: '03:04', 1: '10:19', 2: '12:00', 3: '12:00', 4: '03:04', 5: '20:58', 6: '12:00', 7: '22:32'}, 'Amount': {0: 855.0, 1: 400.0, 2: 23.0, 3: 2909.0, 4: 20.0, 5: 70.0, 6: 40.0, 7: 123.0}, 'Wallet': {0: 'mpesa', 1: 'mpesa640', 2: 'mpesa640', 3: 'mpesa', 4: 'mpesa', 5: 'cash  in pockets', 6: 'cash  in pockets', 7: 'cheque'}, 'Category': {0: 'Food', 1: 'Transport', 2: 'Food', 3: 'Food', 4: 'Transport', 5: 'Food', 6: 'Food', 7: 'Transport'}, 'Subcategory': {0: 'breakfast \U0001f963 ', 1: 'tuktuk', 2: 'breakfast \U0001f963 ', 3: 'lunch', 4: 'tuktuk', 5: 'breakfast \U0001f963 ', 6: 'lunch', 7: 'bodaboda'}, 'Description': {0: 'lunch', 1: None, 2: None, 3: None, 4: None, 5: None, 6: None, 7: None}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>', 6: '<i class="fas fa-trash"></i>', 7: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:33:19,542 DEBUG: Wallets Table: {'ID': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16, 5: 21}, 'Name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets', 5: 'cheque'}, 'Type': {0: 'Mpesa', 1: 'Mpesa', 2: 'Cash', 3: 'Mpesa', 4: 'Cash', 5: 'Bank'}, 'Balance': {0: 'KES -3184.00', 1: 'KES 577.00', 2: 'KES 1000.00', 3: 'KES 500.00', 4: 'KES 40.00', 5: 'KES 377.00'}, 'Mpesa Number': {0: '0700187640', 1: '0700187640', 2: '-', 3: '1234567890', 4: '-', 5: '-'}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:33:19,545 INFO: initialize_dropdowns_and_table completed
+2025-04-17 11:33:19,759 INFO: update_charts triggered
+2025-04-17 11:33:20,349 INFO: update_charts completed
+2025-04-17 11:33:33,514 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 11:33:33,516 INFO: initialize_dropdowns_and_table triggered
+2025-04-17 11:33:33,523 DEBUG: Categories: {'id': {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 211}, 'name': {0: 'Food', 1: 'Transport', 2: 'Utilities', 3: 'Entertainment', 4: 'Other', 5: 'WAGES'}}
+2025-04-17 11:33:33,524 DEBUG: Wallets: {'id': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16, 5: 21}, 'name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets', 5: 'cheque'}, 'type': {0: 'Mpesa', 1: 'Mpesa', 2: 'Cash', 3: 'Mpesa', 4: 'Cash', 5: 'Bank'}, 'current_balance': {0: -3184.0, 1: 577.0, 2: 1000.0, 3: 500.0, 4: 40.0, 5: 377.0}, 'mpesa_number': {0: '0700187640', 1: '0700187640', 2: None, 3: '1234567890', 4: None, 5: None}}
+2025-04-17 11:33:33,524 DEBUG: Expenses: {'ID': {0: 1, 1: 5, 2: 6, 3: 4, 4: 2, 5: 7, 6: 8, 7: 9}, 'Date': {0: '2025-04-17T08:59:42.074896', 1: '2025-04-11', 2: '2025-04-08', 3: '2025-04-07', 4: '2025-04-07', 5: '2025-03-20', 6: '2025-02-04', 7: '2025-01-21'}, 'Time': {0: '03:04', 1: '10:19', 2: '12:00', 3: '12:00', 4: '03:04', 5: '20:58', 6: '12:00', 7: '22:32'}, 'Amount': {0: 855.0, 1: 400.0, 2: 23.0, 3: 2909.0, 4: 20.0, 5: 70.0, 6: 40.0, 7: 123.0}, 'Wallet': {0: 'mpesa', 1: 'mpesa640', 2: 'mpesa640', 3: 'mpesa', 4: 'mpesa', 5: 'cash  in pockets', 6: 'cash  in pockets', 7: 'cheque'}, 'Category': {0: 'Food', 1: 'Transport', 2: 'Food', 3: 'Food', 4: 'Transport', 5: 'Food', 6: 'Food', 7: 'Transport'}, 'Subcategory': {0: 'breakfast \U0001f963 ', 1: 'tuktuk', 2: 'breakfast \U0001f963 ', 3: 'lunch', 4: 'tuktuk', 5: 'breakfast \U0001f963 ', 6: 'lunch', 7: 'bodaboda'}, 'Description': {0: 'lunch', 1: None, 2: None, 3: None, 4: None, 5: None, 6: None, 7: None}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>', 6: '<i class="fas fa-trash"></i>', 7: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:33:33,525 DEBUG: Wallets Table: {'ID': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16, 5: 21}, 'Name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets', 5: 'cheque'}, 'Type': {0: 'Mpesa', 1: 'Mpesa', 2: 'Cash', 3: 'Mpesa', 4: 'Cash', 5: 'Bank'}, 'Balance': {0: 'KES -3184.00', 1: 'KES 577.00', 2: 'KES 1000.00', 3: 'KES 500.00', 4: 'KES 40.00', 5: 'KES 377.00'}, 'Mpesa Number': {0: '0700187640', 1: '0700187640', 2: '-', 3: '1234567890', 4: '-', 5: '-'}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:33:33,526 INFO: initialize_dropdowns_and_table completed
+2025-04-17 11:33:33,528 DEBUG: Categories: {'id': {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 211}, 'name': {0: 'Food', 1: 'Transport', 2: 'Utilities', 3: 'Entertainment', 4: 'Other', 5: 'WAGES'}}
+2025-04-17 11:33:33,529 DEBUG: Wallets: {'id': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16, 5: 21}, 'name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets', 5: 'cheque'}, 'type': {0: 'Mpesa', 1: 'Mpesa', 2: 'Cash', 3: 'Mpesa', 4: 'Cash', 5: 'Bank'}, 'current_balance': {0: -3184.0, 1: 577.0, 2: 1000.0, 3: 500.0, 4: 40.0, 5: 377.0}, 'mpesa_number': {0: '0700187640', 1: '0700187640', 2: None, 3: '1234567890', 4: None, 5: None}}
+2025-04-17 11:33:33,529 DEBUG: Expenses: {'ID': {0: 1, 1: 5, 2: 6, 3: 4, 4: 2, 5: 7, 6: 8, 7: 9}, 'Date': {0: '2025-04-17T08:59:42.074896', 1: '2025-04-11', 2: '2025-04-08', 3: '2025-04-07', 4: '2025-04-07', 5: '2025-03-20', 6: '2025-02-04', 7: '2025-01-21'}, 'Time': {0: '03:04', 1: '10:19', 2: '12:00', 3: '12:00', 4: '03:04', 5: '20:58', 6: '12:00', 7: '22:32'}, 'Amount': {0: 855.0, 1: 400.0, 2: 23.0, 3: 2909.0, 4: 20.0, 5: 70.0, 6: 40.0, 7: 123.0}, 'Wallet': {0: 'mpesa', 1: 'mpesa640', 2: 'mpesa640', 3: 'mpesa', 4: 'mpesa', 5: 'cash  in pockets', 6: 'cash  in pockets', 7: 'cheque'}, 'Category': {0: 'Food', 1: 'Transport', 2: 'Food', 3: 'Food', 4: 'Transport', 5: 'Food', 6: 'Food', 7: 'Transport'}, 'Subcategory': {0: 'breakfast \U0001f963 ', 1: 'tuktuk', 2: 'breakfast \U0001f963 ', 3: 'lunch', 4: 'tuktuk', 5: 'breakfast \U0001f963 ', 6: 'lunch', 7: 'bodaboda'}, 'Description': {0: 'lunch', 1: None, 2: None, 3: None, 4: None, 5: None, 6: None, 7: None}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>', 6: '<i class="fas fa-trash"></i>', 7: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:33:33,529 DEBUG: Wallets Table: {'ID': {0: 1, 1: 3, 2: 4, 3: 5, 4: 16, 5: 21}, 'Name': {0: 'mpesa', 1: 'mpesa640', 2: 'Main Wallet', 3: 'Mpesa Wallet', 4: 'cash  in pockets', 5: 'cheque'}, 'Type': {0: 'Mpesa', 1: 'Mpesa', 2: 'Cash', 3: 'Mpesa', 4: 'Cash', 5: 'Bank'}, 'Balance': {0: 'KES -3184.00', 1: 'KES 577.00', 2: 'KES 1000.00', 3: 'KES 500.00', 4: 'KES 40.00', 5: 'KES 377.00'}, 'Mpesa Number': {0: '0700187640', 1: '0700187640', 2: '-', 3: '1234567890', 4: '-', 5: '-'}, 'Delete': {0: '<i class="fas fa-trash"></i>', 1: '<i class="fas fa-trash"></i>', 2: '<i class="fas fa-trash"></i>', 3: '<i class="fas fa-trash"></i>', 4: '<i class="fas fa-trash"></i>', 5: '<i class="fas fa-trash"></i>'}}
+2025-04-17 11:33:33,531 INFO: initialize_dropdowns_and_table completed
+2025-04-17 11:33:33,545 INFO: update_charts triggered
+2025-04-17 11:33:33,584 INFO: update_charts triggered
+2025-04-17 11:33:33,597 INFO: update_charts completed
+2025-04-17 11:33:33,644 INFO: update_charts completed
+2025-04-17 11:33:43,968 INFO: delete_wallet triggered with active_cell: {'row': 4, 'column': 2, 'column_id': 'Balance'}
+2025-04-17 11:33:43,970 WARNING: delete_wallet: Invalid active_cell or data
+2025-04-17 11:33:43,970 ERROR: delete_wallet failed: 
+2025-04-17 11:34:00,473 INFO: delete_wallet triggered with active_cell: {'row': 0, 'column': 4, 'column_id': 'Delete'}
+2025-04-17 11:34:00,474 INFO: delete_wallet: Wallet 1 (mpesa) has expenses, cannot delete
+2025-04-17 11:34:04,478 INFO: delete_wallet triggered with active_cell: {'row': 1, 'column': 4, 'column_id': 'Delete'}
+2025-04-17 11:34:04,478 INFO: delete_wallet: Wallet 3 (mpesa640) has expenses, cannot delete
+2025-04-17 11:34:07,301 INFO: delete_wallet triggered with active_cell: {'row': 2, 'column': 4, 'column_id': 'Delete'}
+2025-04-17 11:34:07,316 INFO: delete_wallet completed
+2025-04-17 11:34:10,116 INFO: delete_wallet triggered with active_cell: {'row': 3, 'column': 4, 'column_id': 'Delete'}
+2025-04-17 11:34:10,117 INFO: delete_wallet: Wallet 16 (cash  in pockets) has expenses, cannot delete
+2025-04-17 11:34:11,875 INFO: delete_wallet triggered with active_cell: {'row': 4, 'column': 4, 'column_id': 'Delete'}
+2025-04-17 11:34:11,876 INFO: delete_wallet: Wallet 21 (cheque) has expenses, cannot delete
