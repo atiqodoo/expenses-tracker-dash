@@ -758,3 +758,67 @@
 2025-04-18 04:16:43,922 INFO: initialize_dropdowns_and_table triggered
 2025-04-18 04:16:43,934 INFO: initialize_dropdowns_and_table completed
 2025-04-18 04:16:43,972 INFO: update_charts triggered
+2025-04-18 04:49:19,062 INFO: Database connection established
+2025-04-18 04:49:19,073 INFO: Database tables and indices initialized
+2025-04-18 04:49:19,080 INFO: Starting Dash app on port 8050
+2025-04-18 04:49:19,082 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-18 04:49:20,563 INFO: Database connection established
+2025-04-18 04:49:20,571 INFO: Database tables and indices initialized
+2025-04-18 04:49:20,576 WARNING: Port 8050 is in use, trying 8051
+2025-04-18 04:49:20,576 INFO: Starting Dash app on port 8051
+2025-04-18 04:49:21,051 INFO: initialize_dropdowns_and_table triggered
+2025-04-18 04:49:21,093 INFO: initialize_dropdowns_and_table completed
+2025-04-18 04:49:21,151 INFO: update_charts triggered
+2025-04-18 04:49:25,532 INFO: initialize_dropdowns_and_table triggered
+2025-04-18 04:49:25,561 INFO: initialize_dropdowns_and_table completed
+2025-04-18 04:49:25,613 INFO: update_charts triggered
+2025-04-18 04:49:27,580 INFO: toggle_modal triggered
+2025-04-18 04:49:43,720 INFO: initialize_dropdowns_and_table triggered
+2025-04-18 04:49:43,729 INFO: initialize_dropdowns_and_table completed
+2025-04-18 04:49:43,749 INFO: update_charts triggered
+2025-04-18 04:49:43,797 INFO: initialize_dropdowns_and_table triggered
+2025-04-18 04:49:43,811 INFO: initialize_dropdowns_and_table completed
+2025-04-18 04:49:43,863 INFO: update_charts triggered
+2025-04-18 04:51:39,577 INFO: add_category triggered
+2025-04-18 04:51:39,590 INFO: add_category completed
+2025-04-18 04:52:29,088 INFO: add_subcategory triggered with category_id: 493, name: software subscription
+2025-04-18 04:52:29,106 INFO: add_subcategory completed with 2 options
+2025-04-18 04:52:32,260 INFO: toggle_modal triggered
+2025-04-18 04:52:43,450 INFO: load_subcategories triggered with category_id: 493
+2025-04-18 04:52:43,452 INFO: load_subcategories completed with 2 options: [{'label': 'None', 'value': 'none'}, {'label': 'software subscription', 'value': '10'}]
+2025-04-18 04:52:56,983 INFO: toggle_modal triggered
+2025-04-18 04:52:56,984 INFO: save_expense triggered with inputs: date=2025-03-30, amount=60, wallet_id=16, subcategory_id=10
+2025-04-18 04:52:57,008 INFO: save_expense completed
+2025-04-18 04:52:57,052 INFO: update_charts triggered
+2025-04-18 04:52:57,135 INFO: update_charts completed
+2025-04-18 05:09:44,589 INFO: initialize_dropdowns_and_table triggered
+2025-04-18 05:09:44,912 INFO: initialize_dropdowns_and_table completed
+2025-04-18 05:09:45,109 INFO: update_charts triggered
+2025-04-18 05:09:45,376 INFO: update_charts completed
+2025-04-18 05:17:44,987 INFO: Database connection established
+2025-04-18 05:17:45,002 INFO: Database tables and indices initialized
+2025-04-18 05:17:45,015 INFO: Starting Dash app on port 8050
+2025-04-18 05:17:45,016 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-18 05:17:46,223 INFO: Database connection established
+2025-04-18 05:17:46,231 INFO: Database tables and indices initialized
+2025-04-18 05:17:46,233 WARNING: Port 8050 is in use, trying 8051
+2025-04-18 05:17:46,235 INFO: Starting Dash app on port 8051
+2025-04-18 05:17:52,239 INFO: initialize_dropdowns_and_table triggered
+2025-04-18 05:17:52,276 INFO: initialize_dropdowns_and_table completed
+2025-04-18 05:17:52,440 INFO: update_charts triggered
+2025-04-18 05:17:54,081 INFO: update_charts completed
+2025-04-18 05:44:50,241 INFO: Database connection established
+2025-04-18 05:44:50,246 INFO: Database tables and indices initialized
+2025-04-18 05:44:50,252 INFO: Starting Dash app on port 8050
+2025-04-18 05:44:50,252 INFO: Dash is running on http://127.0.0.1:8050/
+
+2025-04-18 05:44:51,459 INFO: Database connection established
+2025-04-18 05:44:51,467 INFO: Database tables and indices initialized
+2025-04-18 05:44:51,471 WARNING: Port 8050 is in use, trying 8051
+2025-04-18 05:44:51,471 INFO: Starting Dash app on port 8051
+2025-04-18 05:44:54,039 INFO: initialize_dropdowns_and_table triggered
+2025-04-18 05:44:54,067 INFO: initialize_dropdowns_and_table completed
+2025-04-18 05:44:54,231 INFO: update_charts triggered
+2025-04-18 05:44:55,778 INFO: update_charts completed
